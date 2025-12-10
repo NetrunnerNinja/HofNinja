@@ -12,6 +12,10 @@ Whether you're a complete beginner or an experienced practitioner, Hof Ninja pro
 
 Start your journey to better health, increased energy, and mental clarity through the power of conscious breathing.
 
+
+## Download (.apk) Android:
+https://github.com/NetrunnerNinja/HofNinja/releases
+
 ## Screenshots and Video:
 
 https://notatki-hakera.pl/2025/11/30/hof-ninja-moja-aplikacja-do-sesji-oddechowych-metoda-wima-hofa/
