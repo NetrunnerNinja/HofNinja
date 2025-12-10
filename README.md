@@ -1,4 +1,4 @@
-# HofNinja 
+# Hof Ninja (Android) 
 
 A minimalist and functional application for Wim Hof breathing sessions, created by a practitioner with 5 years of experience.
 
