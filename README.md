@@ -14,7 +14,7 @@ Start your journey to better health, increased energy, and mental clarity throug
 
 
 ## Download (.apk) Android:
-https://github.com/NetrunnerNinja/HofNinja/releases
+https://github.com/on-em/HofNinja/releases
 
 ## Screenshots and Video:
 
@@ -22,7 +22,7 @@ https://notatki-hakera.pl/2025/11/30/hof-ninja-moja-aplikacja-do-sesji-oddechowy
 
 ## How to compile:
 
-1. Download Repository `git clone https://github.com/NetrunnerNinja/HofNinja`
+1. Download Repository `git clone https://github.com/on-em/HofNinja`
 2. Run `flutter pub get`
 3. Then `flutter build apk`
 
